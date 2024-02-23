@@ -39,6 +39,7 @@ Follow the lessons in the notebooks/ directory.
 14.You will get the below message only if you opened at least one jupyter notebook on the studio instance. So if you don’t get this, just create a new notebook, let it start up and then try shutting down again just to be sure.
 
 Getting started
+
 1.get the code from the repository from https://github.com/AravindanAS/Aravindan
 
 2.install required python packages if previously not installed
